@@ -23,7 +23,13 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Project Walkthrough</h2>
 
 First, I will navigate to the end user site of osTicket to be able to create a new ticket:
+
+![image](https://github.com/user-attachments/assets/aadcbf54-71f9-44b3-9179-bd83073da02b)
+
 I will open three new tickets and fill out the users information along with the technical issues:
+
+![image](https://github.com/user-attachments/assets/636e60bb-3a9d-4a69-90e2-9bfa409c4028)
+
 Next, I will log in as an agent (worker) we created:
 I can now see all the open tickets I created in the "Tickets" tab:
 When clicking on a ticket I can see all the information about the ticket like its priority, SLA, creation date, and more:
