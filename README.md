@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
+<h1>osTicket - Creating and Working Tickets</h1>
 This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
 
 
@@ -20,35 +20,23 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 - Windows 10</b> (21H2)
 
-<h2>Ticket Lifecycle Stages</h2>
+<h2>Project Walkthrough</h2>
 
-- Intake
-- Assignment and Communication
-- Working the Issue
-- Resolution
+First, I will navigate to the end user site of osTicket to be able to create a new ticket:
+I will open three new tickets and fill out the users information along with the technical issues:
+Next, I will log in as an agent (worker) we created:
+I can now see all the open tickets I created in the "Tickets" tab:
+When clicking on a ticket I can see all the information about the ticket like its priority, SLA, creation date, and more:
+I can change the priority level on appropriate tickets by clicking the "Priority" section and can add a note for the change made:
+To assign a ticket, click on "Unassigned" next to the "Assigned To" section and select an agent to assign this ticket to:
+I can also change the tickets SLA (Service Level Aggrement) of the ticket in the "SLA Plan" section:
+Another option I have is to change the tickets department in the "Department" section:
+Looking further down I can see a thread of all of the changes made to the ticket:
+At the bottom I can post replies communicating updates of the ticket:
+If I go back to see all the open tickets, I can see the changes I made to the ticket:
+To resolve a ticket, I can select "Resolved" from the "Ticket Status" menu at the bottom of the ticket:
+The resolved ticket will disappear from the open tickets tab and appear in the closed tickets tab:
 
-<h2>Lifecycle Stages</h2>
+<h2>osTicket: Creating and Working Tickets is now Complete!</h2>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+<b> We've successfully gone through the life cycle of a ticket from creation to resolution, made changes to the tickets when necessary like assigning the tickets, changing the SLA (Service Level Agreement), and commenting to create a thread of clear communication! </b>
