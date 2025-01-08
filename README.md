@@ -26,13 +26,22 @@ First, I will navigate to the end user site of osTicket to be able to create a n
 
 ![image](https://github.com/user-attachments/assets/aadcbf54-71f9-44b3-9179-bd83073da02b)
 
-I will open three new tickets and fill out the users information along with the technical issues:
+I will open one new tickets and fill out the user information along with the technical issues:
 
 ![image](https://github.com/user-attachments/assets/636e60bb-3a9d-4a69-90e2-9bfa409c4028)
 
 Next, I will log in as an agent (worker) we created:
+
+![image](https://github.com/user-attachments/assets/1c747c74-28fc-4350-9803-3fe76b158865)
+
 I can now see all the open tickets I created in the "Tickets" tab:
+
+![image](https://github.com/user-attachments/assets/f5169a24-d14e-4218-9839-1088b57f436f)
+
 When clicking on a ticket I can see all the information about the ticket like its priority, SLA, creation date, and more:
+
+![image](https://github.com/user-attachments/assets/e3b169ff-5a2b-480f-9428-d0f1223303af)
+
 I can change the priority level on appropriate tickets by clicking the "Priority" section and can add a note for the change made:
 To assign a ticket, click on "Unassigned" next to the "Assigned To" section and select an agent to assign this ticket to:
 I can also change the tickets SLA (Service Level Aggrement) of the ticket in the "SLA Plan" section:
