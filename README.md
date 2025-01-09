@@ -44,18 +44,19 @@ When clicking on a ticket I can see all the information about the ticket like it
 
 I can change the priority level on appropriate tickets by clicking the "Priority" section and can add a note for the change made:
 
-
+![image](https://github.com/user-attachments/assets/0592ab24-854e-418b-8188-70de8c35b8a7)
 
 To assign a ticket, click on "Unassigned" next to the "Assigned To" section and select an agent to assign this ticket to:
 
+![image](https://github.com/user-attachments/assets/6e4de874-f4c6-42b3-b4c2-cbe39ee70581)
 
 I can also change the tickets SLA (Service Level Agreement) of the ticket in the "SLA Plan" section:
 
-
+![image](https://github.com/user-attachments/assets/e4441bc3-be0d-4dc5-96d7-8b9f92ec4418)
 
 Another option I have is to change the tickets department in the "Department" section:
 
-
+![image](https://github.com/user-attachments/assets/a33e64cd-142c-48a7-9686-6c7807363472)
 
 Looking further down I can see a thread of all of the changes made to the ticket:
 
