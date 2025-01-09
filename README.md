@@ -32,7 +32,7 @@ I will open one new tickets and fill out the user information along with the tec
 
 Next, I will log in as an agent (worker) we created:
 
-![image](https://github.com/user-attachments/assets/1c747c74-28fc-4350-9803-3fe76b158865)
+![image](https://github.com/user-attachments/assets/5de13c9e-00b8-4d72-8227-435849536827)
 
 I can now see all the open tickets I created in the "Tickets" tab:
 
