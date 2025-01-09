@@ -60,17 +60,23 @@ Another option I have is to change the tickets department in the "Department" se
 
 Looking further down I can see a thread of all of the changes made to the ticket:
 
-
+![image](https://github.com/user-attachments/assets/4e7fe99f-64ea-46f6-86ec-17d2f1370388)
 
 At the bottom I can post replies communicating updates of the ticket:
 
-
+![image](https://github.com/user-attachments/assets/a8fe89eb-9479-4241-b07b-8c018422cdf1)
 
 If I go back to see all the open tickets, I can see the changes I made to the ticket:
 
+![image](https://github.com/user-attachments/assets/c68b8b92-2c2c-47c9-ae4d-187033860be1)
+
 To resolve a ticket, I can select "Resolved" from the "Ticket Status" menu at the bottom of the ticket:
 
+![image](https://github.com/user-attachments/assets/f54bd26b-007f-4234-931b-e29b382c01ff)
+
 The resolved ticket will disappear from the open tickets tab and appear in the closed tickets tab:
+
+![image](https://github.com/user-attachments/assets/97e11442-ad46-41f0-b03a-5bd193ce8a72)
 
 <h2>osTicket: Creating and Working Tickets is now Complete!</h2>
 
